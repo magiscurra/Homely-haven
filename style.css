@@ -1,0 +1,48 @@
+body{
+    margin: 0;
+    background: rgb(248, 185, 255);
+}
+#head{
+  color: black;
+}
+#head:hover{
+  text-decoration: underline;
+}
+#home-head{
+  font-size: 50px;
+  
+}
+nav:hover{
+  background: rgb(212, 157, 212);
+}
+.carousel-dark{
+  color: black;
+}
+#logF{
+  color: black;
+}
+#logW{
+  color: black;
+}
+#logI{
+  color: black;
+}
+
+#logF:hover{
+  font-size: 25px;
+  color: blue;
+  text-decoration: none;
+}
+#logW:hover{
+  font-size: 25px;
+  color: rgb(5, 177, 5);
+  text-decoration: none;
+}
+#logI:hover{
+  font-size: 25px;
+  color: rgb(245, 3, 3);
+  text-decoration: none;
+}
+
+
+
